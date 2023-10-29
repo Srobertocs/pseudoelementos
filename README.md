@@ -1,1 +1,1 @@
-# pseudoelementos_css
+# Estudo dos pseudoelementos do CSS
