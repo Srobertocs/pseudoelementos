@@ -1,6 +1,6 @@
 # Estudo de pseudoelementos do CSS
 
-PSEUDOELEMENTOS (Utilizado para decorar o conteúdo diretamente pelo CSS)
+PSEUDOELEMENTOS (Utilizados para decorar o conteúdo diretamente pelo CSS)
 
   ::before e ::after
 
