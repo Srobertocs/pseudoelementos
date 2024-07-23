@@ -1,4 +1,4 @@
-# Estudo de pseudoelementos do CSS
+# Estudo Pessoal
 
 PSEUDOELEMENTOS (Utilizados para decorar o conteúdo diretamente pelo CSS)
 
